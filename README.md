@@ -23,6 +23,7 @@ An automated AI pipeline that converts a single text topic into a complete short
 1.  **Clone or Download the repository**:
     ```bash
     git clone <repository-url>
+    cd VideoCreation
     ```
 
 2.  **Create and activate a virtual environment**:
